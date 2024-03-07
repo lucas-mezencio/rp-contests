@@ -1,0 +1,23 @@
+senha segura
+
+com o crescente numero de ataques e vazamento de dados na internet
+é cada vez mais comum que nossos dados caiam em maos erradas, infelizmente.
+para contornar essa situação devemos seguir varios passos para aumentarmos nossa segurança na rede
+é não reutilizarmos nossas senhas em mais de um site na web, e o principal usarmos senhas fortes.
+senhas fortes são senhas que tenham uma mistura de caracteres especiais, letras (maiusculas e minusculas)
+ e números de forma a dificultar
+a formação de palavras comuns para que os atacantes não decifrem nossa preciosa chave de acesso
+ por meio de engenharia social
+e dificulte ataques de forca bruta.
+
+-----
+validar senha:
+pelo menos 3 numeros
+pelo menos 3 caracteres especiais
+pelo menos 2 letras maiusculas
+pelo menos 2 letras minusculas
+portanto, pelo menos 10 caracteres.
+----
+saida:
+senha valida
+senha invalida

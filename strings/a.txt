@@ -1,0 +1,15 @@
+-- strings
+primeira questão
+
+uma fabrica, linha de produção tinha que verificar se as letras produzidas seguiam
+um padrão de altura (maiusculas e minusculas) as maiusculas deveriam ser discartadas
+e as minusculas seguiriam o processo, que passaria para a distribuição que consiste em:
+vogais vão para um comprador e as consoantes por serem mais valiosas eram disputadas por outros
+dois compradores então para decidir até qual iria para um comprador e qual iria para outro o 
+setor de vendas decidiu vender em sequencia para um e o restante para outro (em ordem alfabetica)
+sendo determinado no input (uma letra) {
+    * de b até "k" vai para comprador1 e é contado pelo programa e o restante vai para comprador2 e também contado
+    * as vogais também são contadas
+}
+-- possível complemento de texto:
+    a fabrica é antiga e naquela época os caracteres eram case insensitve no padrão ascii
