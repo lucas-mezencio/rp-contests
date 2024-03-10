@@ -13,3 +13,4 @@ sendo determinado no input (uma letra) {
 }
 -- possível complemento de texto:
     a fabrica é antiga e naquela época os caracteres eram case insensitve no padrão ascii
+    realidade paralela, onde o software é feito por caracteres produzidos em fabricas
