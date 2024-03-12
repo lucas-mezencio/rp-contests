@@ -1,0 +1,10 @@
+viagem dinheiro juntado
+output devendo cartão ou não
+input:
+Montante
+N viagens
+Ida Ndiarias ValorDiaria Custos
+
+output
+<? printar gastos com cada viagem?>
+deve|sobra: <restante>
