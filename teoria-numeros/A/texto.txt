@@ -1,0 +1,9 @@
+elaborar um pouco do erro 017 do javascript pq ele interpreta isso em vez de usar 0o17 no lugar
+o erro se torna perceptivel pq não é uma linguagem tipada e o interpretador atribui 018 que não é um numero
+octal como se fosse 018.
+
+input:
+numero base octal
+
+output:
+numero base decimal
