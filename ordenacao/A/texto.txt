@@ -1,0 +1,14 @@
+fila de banco
+
+60 anos ou mais fila preferencial
+fila normal ordem de chegada
+fila preferencial do mais velho pro mais novo
+(mais velho primeiro)
+
+input sequencia de idades (inteiros)
+N (idades)
+A B C ... N
+
+output:
+fila idosos
+fila adultos

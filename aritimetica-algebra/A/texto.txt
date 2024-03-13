@@ -1,10 +1,9 @@
 viagem dinheiro juntado
 output devendo cartão ou não
 input:
-Montante
-N viagens
-Ida Ndiarias ValorDiaria Custos
+[M]ontante
+[N] viagens
+[I]da [Nd]iarias [V]alorDiaria [C]ustos
 
 output
-<? printar gastos com cada viagem?>
 deve|sobra: <restante>

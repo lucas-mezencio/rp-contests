@@ -15,8 +15,10 @@ validar senha:
 pelo menos 3 numeros
 pelo menos 3 caracteres especiais
 pelo menos 2 letras maiusculas
--- (ignorar) > pelo menos 2 letras minusculas
 portanto, pelo menos 10 caracteres.
+---- entrada:
+string
+
 ----
 saida:
 senha valida
